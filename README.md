@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 
+
+I'm currently learning Express and MongoDB. :)
+
+
+![github](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/135b041f-e2b1-4b81-b041-f5f8febf2fbd)
 
 <!--
 **PolishCrow23/PolishCrow23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
