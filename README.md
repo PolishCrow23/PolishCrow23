@@ -8,7 +8,7 @@ I'm currently learning Express and MongoDB. :)
 
 🌺 I'm a creative person that loves making **3D art**.
 
-![dragon1](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/2d575e2b-da68-4b25-b2db-cb6153b97a1d)
+![dragon1 - Copy (Custom)](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/f30b6130-7b2d-4efb-8043-b77624c3d531)
 
 <!--
 **PolishCrow23/PolishCrow23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
