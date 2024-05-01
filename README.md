@@ -6,6 +6,8 @@ I'm currently learning Express and MongoDB. :)
 
 🌺 My favorite games are _Subnautica_ and _Outer Wilds_.
 
+🌺 I'm a creative person that loves making 3D art.
+
 ![github](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/135b041f-e2b1-4b81-b041-f5f8febf2fbd)
 
 <!--
