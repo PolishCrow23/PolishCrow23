@@ -1,4 +1,4 @@
-# Some facts about me:
+# Some facts about me
 
 🔥 I've been a volunteer in a Kraków **wildlife rehabilitation** center _Akcja dla Dzikich Zwierząt_ since 2019. I adore birds.
 
