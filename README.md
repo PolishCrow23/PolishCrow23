@@ -1,5 +1,3 @@
-<img src="https://github.com/PolishCrow23/PolishCrow23/assets/139121607/ee81f925-1bb6-4d9f-be32-248d483605d1" width="400">
-
 # Some facts about me:
 
 🔥 I've been a volunteer in a Kraków **wildlife rehabilitation** center _Akcja dla Dzikich Zwierząt_ since 2019. I adore birds.
@@ -8,7 +6,7 @@
 
 🔥 I'm a creative person that loves making **3D art**.
 
-
+<img src="https://github.com/PolishCrow23/PolishCrow23/assets/139121607/ee81f925-1bb6-4d9f-be32-248d483605d1" width="400">
 
 <!--
 **PolishCrow23/PolishCrow23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
