@@ -1,4 +1,4 @@
-I'm currently learning Express and MongoDB. :)
+<img src="https://github.com/PolishCrow23/PolishCrow23/assets/139121607/ee81f925-1bb6-4d9f-be32-248d483605d1" width="400">
 
 # Some facts about me:
 
@@ -8,8 +8,6 @@ I'm currently learning Express and MongoDB. :)
 
 🌺 I'm a creative person that loves making **3D art**.
 
-
-![dragon1 - Copy](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/ee81f925-1bb6-4d9f-be32-248d483605d1)
 
 
 <!--
