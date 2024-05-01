@@ -2,6 +2,8 @@
 
 I'm currently learning Express and MongoDB. :)
 
+🌺 I'm a volunteer in a Kraków wildlife rehabilitation center since 2019. My favorite patients are birds.
+🌺 My favorite games are Subnautica and Outer Wilds.
 
 ![github](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/135b041f-e2b1-4b81-b041-f5f8febf2fbd)
 
