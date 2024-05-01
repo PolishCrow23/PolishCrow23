@@ -1,4 +1,4 @@
-![dragon](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/5184c38c-199a-4088-871f-a02d0ec0da47)
+![dragon1](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/2d575e2b-da68-4b25-b2db-cb6153b97a1d)
 
 I'm currently learning Express and MongoDB. :)
 
