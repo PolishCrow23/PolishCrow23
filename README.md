@@ -8,7 +8,8 @@ I'm currently learning Express and MongoDB. :)
 
 🌺 I'm a creative person that loves making **3D art**.
 
-![Untitled-12](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/2b0ad8c0-dc50-461b-a052-a8d3c2bc1a88)
+
+![dragon1 - Copy](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/ee81f925-1bb6-4d9f-be32-248d483605d1)
 
 
 <!--
