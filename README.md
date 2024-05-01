@@ -1,4 +1,4 @@
-### Hello! 
+![dragon](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/5184c38c-199a-4088-871f-a02d0ec0da47)
 
 I'm currently learning Express and MongoDB. :)
 
@@ -7,8 +7,6 @@ I'm currently learning Express and MongoDB. :)
 🌺 My favorite games are _Subnautica_ and _Outer Wilds_.
 
 🌺 I'm a creative person that loves making 3D art.
-
-![dragon](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/b002a501-8475-4bfd-af35-c84e9f127ec6)
 
 <!--
 **PolishCrow23/PolishCrow23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
