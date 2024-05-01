@@ -2,7 +2,7 @@
 
 I'm currently learning Express and MongoDB. :)
 
-🌺 I'm a volunteer in a Kraków wildlife rehabilitation center _Akcja dla Dzikich Zwierząt_ since 2019. My favorite patients are birds.
+🌺 I've been a volunteer in a Kraków wildlife rehabilitation center _Akcja dla Dzikich Zwierząt_ since 2019. My favorite patients are birds.
 
 🌺 My favorite games are _Subnautica_ and _Outer Wilds_.
 
