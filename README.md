@@ -2,11 +2,11 @@
 
 # Some facts about me:
 
-🌺 I've been a volunteer in a Kraków **wildlife rehabilitation** center _Akcja dla Dzikich Zwierząt_ since 2019. I adore birds.
+🔥 I've been a volunteer in a Kraków **wildlife rehabilitation** center _Akcja dla Dzikich Zwierząt_ since 2019. I adore birds.
 
-🌺 My favorite games are _Subnautica_ and _Outer Wilds_.
+🔥 My favorite games are _Subnautica_ and _Outer Wilds_.
 
-🌺 I'm a creative person that loves making **3D art**.
+🔥 I'm a creative person that loves making **3D art**.
 
 
 
