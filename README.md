@@ -8,8 +8,8 @@ I'm currently learning Express and MongoDB. :)
 
 🌺 I'm a creative person that loves making **3D art**.
 
-<img src="[image](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/23766d63-9a81-438a-af55-cdd30ad92d98)" width="100">
-<img src="https://github.com/PolishCrow23/PolishCrow23/assets/139121607/23766d63-9a81-438a-af55-cdd30ad92d98" width="300">
+![Untitled-12](https://github.com/PolishCrow23/PolishCrow23/assets/139121607/2b0ad8c0-dc50-461b-a052-a8d3c2bc1a88)
+
 
 <!--
 **PolishCrow23/PolishCrow23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
