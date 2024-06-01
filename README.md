@@ -1,10 +1,10 @@
 ## Some facts about me
 
-🔥 I've been a volunteer in a Kraków **wildlife rehabilitation** center _Akcja dla Dzikich Zwierząt_ since 2019. I adore birds.
+🔥 Wild animals activist. I've been a volunteer in a Kraków **wildlife rehabilitation** center _Akcja dla Dzikich Zwierząt_ since 2019. I adore birds.
 
-🔥 My favorite games are _Subnautica_ and _Outer Wilds_.
+🔥 Creative person that loves making **3D art**.
 
-🔥 I'm a creative person that loves making **3D art**.
+🔥 Favorite games: _Subnautica_ and _Outer Wilds_.
 
 <img src="https://github.com/PolishCrow23/PolishCrow23/assets/139121607/ee81f925-1bb6-4d9f-be32-248d483605d1" width="400">
 
